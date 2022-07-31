@@ -1,7 +1,6 @@
 from read_file import read_csv
 from linear_regression import calc
 from plot_graphic import show_graphic
-from pathlib import Path
 
 file = "dados.csv"
 print('Bem-vindo(a) ao Regressão Linear')
