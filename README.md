@@ -3,7 +3,7 @@
 
 ### Sobre
 
-&emsp;O projeto tem como objetivo fornecer um gráfico com os dados e a regressão linear plotados a partir de um arquivo `.csv`. O arquivo com os dados deve ser salvado no diretório regressao_linear, junto ao main.py, com o nome `dados.csv`
+&emsp;O projeto tem como objetivo fornecer um gráfico com os dados e a regressão linear plotados a partir de um arquivo `.csv`. 
 
 ### Como inserir dados
 
