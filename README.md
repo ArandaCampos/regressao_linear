@@ -7,7 +7,7 @@
 
 ### Como inserir dados
 
-&emsp;Os dados devem estar em um arquivo `.csv`. Nele deve conter os dados em duas colunas, na primeira os dados respectivos ao eixo X, e na segunda, ao eixo Y. Sem cabeçalho ou anotações extras.<br>&emsp;Para que o programa possa carregá-los, o arquivo deve ser nomeado `dados.csv` e estar no mesmo diretório que o `read_file.py` (Regressao_linear/regressao_linear)
+&emsp;Os dados devem estar em um arquivo `.csv`. Nele deve conter os dados em duas colunas, na primeira os dados respectivos ao eixo X, e na segunda, ao eixo Y. Sem cabeçalho ou anotações extras.<br>&emsp;Para que o programa possa carregá-los, o arquivo deve ser nomeado `dados.csv` e estar no diretório que o `regressao_linear.py`.
 
 ### Bora ver como o projeto ficou?
 
